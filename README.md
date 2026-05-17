@@ -29,7 +29,7 @@ It is created for learning and practicing statistics concepts in Python.
 - Type I Error
 - Type II Error
 - Parametric Testing
-  Tests:T-Test and ANOVA Test
+- Tests:T-Test and ANOVA Test
 ---
 
 ## 📈 Learning Outcomes
